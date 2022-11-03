@@ -1,4 +1,4 @@
-Hi, I'm BaYeCh!
+Hi, I'm BaYeCh!\n
 gsgsdf
 
 이제 이 파일은 제껍니다.
